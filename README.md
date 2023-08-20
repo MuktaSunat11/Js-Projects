@@ -11,6 +11,9 @@ The code for the drum kit is in the index.html file. The code for the sounds is 
 Here is a step-by-step explanation of how the code works:
 
 The index.html file loads the sounds/ folder.
+
 The index.html file creates the buttons and assigns them onclick handlers.
+
 The onclick handlers call the corresponding function to play the sound.
+
 The functions play the sound by creating an Audio object and calling the play() method.
